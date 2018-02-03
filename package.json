@@ -1,0 +1,30 @@
+{
+  "name": "aristois-rpc",
+  "version": "1.0.0",
+  "description": "Aristois Discord rich presence",
+  "main": "App.js",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.6",
+    "discord-rpc": "^3.0.0-beta.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moudoux/Aristois-RPC.git"
+  },
+  "keywords": [
+    "Aristois",
+    "Minecraft",
+    "RPC",
+    "Discord"
+  ],
+  "author": "Deftware",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Moudoux/Aristois-RPC/issues"
+  },
+  "homepage": "https://github.com/Moudoux/Aristois-RPC#readme"
+}
