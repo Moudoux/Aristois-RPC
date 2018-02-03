@@ -15,7 +15,7 @@ async function setActivity() {
     rpc.setActivity({
         details: 'Minecraft utility mod',
         state: 'Download now at aristois.net',
-        startTimestamp: Date.now(),
+        startTimestamp,
         largeImageKey: 'aristois_big',
         largeImageText: 'The Aristois logo, visit aristois.net',
         smallImageKey: 'deftware',
